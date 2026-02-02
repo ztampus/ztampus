@@ -40,7 +40,7 @@ I'm a passionate **Frontend Developer** specializing in creating smooth, interac
 
 ---
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 <div align="center">
   
@@ -50,16 +50,16 @@ I'm a passionate **Frontend Developer** specializing in creating smooth, interac
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ztampus&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6)
 
-</div>
+</div> -->
 
 ---
-
+<!-- 
 ## 🎯 Featured Projects
 
 ### 🌟 Animated Web Preloader
 > A sophisticated loading experience with smooth GSAP animations, progress tracking, and optimized transitions
 - **Tech**: JavaScript, GSAP, CSS3
-- **Features**: Counter animations, progress bars, smooth exit transitions
+- **Features**: Counter animations, progress bars, smooth exit transitions -->
 
 ### 🚧 More projects coming soon...
 
